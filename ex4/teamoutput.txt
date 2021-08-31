@@ -1,0 +1,35 @@
+Avengers
+name of Super Hero:Clark Kent
+Age of Super Hero:25
+radioactive of Super Hero:0
+
+name of Super Hero:IronMan
+Age of Super Hero:38
+radioactive of Super Hero:0
+profession:entrepreneur
+years Expirence:18
+
+name of Super Hero:Scott Lang
+Age of Super Hero:30
+radioactive of Super Hero:0
+Animal:Ant
+
+name of Super Hero:Steve Rogers
+Age of Super Hero:22
+radioactive of Super Hero:1
+profession:soldier
+years Expirence:75
+age includion freezing: 89
+
+name of Super Hero:Peter Parker
+Age of Super Hero:17
+radioactive of Super Hero:1
+Animal:spider
+websize:2.3
+
+name of Super Hero:Batman
+Age of Super Hero:35
+radioactive of Super Hero:0
+Animal:Bat
+
+
